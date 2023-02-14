@@ -1,3 +1,5 @@
+import pandas as pd
+
 def mergeMultiHeaderDataframes(df1, df2, merge_cols):
     """
     Merge two multi-column header DataFrames on user specified columns.
