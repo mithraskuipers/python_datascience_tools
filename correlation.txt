@@ -1,0 +1,13 @@
+Is there an easy way to remember when to use the pearson correlation and when to use the spearman correlation? I keep forgetting it.
+
+Yes, there is an easy way to remember when to use Pearson correlation and when to use Spearman correlation.
+
+Pearson correlation measures the linear relationship between two continuous variables. It assumes that the relationship between the two variables is linear and that the variables are normally distributed. Therefore, Pearson correlation is appropriate when both variables are continuous and the relationship between them is linear.
+
+Spearman correlation measures the monotonic relationship between two variables. It does not assume that the relationship between the two variables is linear and it can be used for both continuous and ordinal variables. Therefore, Spearman correlation is appropriate when the relationship between the two variables is not linear or when one or both of the variables are ordinal.
+
+A simple way to remember this is to think of "P" for Pearson correlation and "S" for Spearman correlation. You can remember that "P" stands for "parametric," which means that Pearson correlation is used when the assumptions of normality and linearity are met. Similarly, you can remember that "S" stands for "nonparametric," which means that Spearman correlation is used when these assumptions are not met.
+
+Another way to remember is that "Pearson is for when the relationship is linear and continuous", while "Spearman is for when the relationship is not necessarily linear or the variables are ordinal".
+
+So, if you have two continuous variables and you want to measure the strength and direction of their linear relationship, you should use Pearson correlation. If you have two variables that are not necessarily linear or one or both of them are ordinal, you should use Spearman correlation.
